@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hey there, I'm <span style="color: #00D9FF;">Mohamed Rateb</span></h1>
   
-  <h3>🚀 Software Engineering | Backend Developer</h3>
+  <h3>🚀 Software Engineer | Backend Developer</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
     <img src="https://img.shields.io/badge/Specialty-Scalable%20Systems-00D9FF?style=for-the-badge" />
@@ -14,7 +14,8 @@
 
 🎯 About Me
 
-Software Engineering , Backend Developer specializing in **.NET** with a focus on building scalable, efficient APIs and robust database solutions. Passionate about clean code, system design, and solving complex problems.
+I build backend applications using .NET, focusing on APIs, databases, and clean maintainable code.
+Passionate about problem solving and continuously improving my development skills.
 
 ---
 
